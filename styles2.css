@@ -1,0 +1,43 @@
+/* styles_final.css */
+
+body {
+    background-color: #ccbc0b;
+}
+h1 {
+    font-family: "Marcellus", serif;
+    background-color: #fffef3;
+    color: #000000;
+    text-align: center;
+div {
+    background-color: lightblue;
+  }
+ p {
+    background-color: yellow;
+}
+
+.div1 {
+    div {
+        padding-top: 1000px;
+        padding-right: 1000px;
+        padding-bottom: 4000px;
+        padding-left: 400px;
+      }
+}
+
+
+
+.monkey {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    align-content: center;
+  }
+
+  . {
+    div {
+        padding-top: 1000px;
+        padding-right: 1000px;
+        padding-bottom: 4000px;
+        padding-left: 400px;
+      }
+}
